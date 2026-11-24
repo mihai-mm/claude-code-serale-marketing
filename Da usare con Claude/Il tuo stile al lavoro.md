@@ -77,7 +77,7 @@ All'avvio:
 3. Leggi il registro in fondo a questo file. Se ci sono passi già fatti, **riparti dal primo non spuntato**, senza rifare domande già fatte. Se l'ultima voce dice «in corso», riparti dal punto che indica.
 4. Mostra il percorso in una riga per passo, poi annuncia il passo: cosa fate, perché serve, cosa ci sarà alla fine.
 
-Dopo ogni passo: spunta la casella con la data (`✅ AAAA-MM-GG`; un passo che non si applica si spunta con «saltato: ...»), aggiorna «Dove sei» e aggiungi una riga in cima al registro con ciò che serve per riprendere (quale contenuto, dove sta la bozza, quale voce). Poi chiedi: «continuiamo con il prossimo passo o ci fermiamo qui?».
+Dopo ogni passo: spunta le due caselle del passo, quella sotto il passo e quella nel registro in fondo, con la data (`✅ AAAA-MM-GG`; un passo che non si applica si spunta con «saltato: ...»), aggiorna «Dove sei» e aggiungi una riga in cima al registro con ciò che serve per riprendere (quale contenuto, dove sta la bozza, quale voce). Poi chiedi: «continuiamo con il prossimo passo o ci fermiamo qui?».
 
 ---
 
@@ -161,6 +161,8 @@ Cosa fai:
 4. Poi:
 
 > Usa il revisore dello stile sulla bozza: a nome di [chi parla].
+
+   Se la persona non ha testi suoi salvati nel vault, aggiungi tu alla richiesta che i testi veri di confronto sono i tre esempi dentro la scheda di stile.
 
 5. Leggete insieme i due resoconti: per ogni punto la frase, il motivo, la correzione più piccola. La persona decide cosa accettare, punto per punto. Con il sì, applica solo le correzioni accettate e rileggi la bozza.
 6. **Se un revisore non risponde al suo nome**: scrivi nel registro «Passo 3 in corso: revisori copiati, da provare (punto 3)», poi di' alla persona di aprire una conversazione nuova e scrivere la frase per riprendere in fondo a questo file. Si riparte dal punto 3.

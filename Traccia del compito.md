@@ -7,7 +7,7 @@ Non deve essere perfetta: deve essere tua. Se ti sei fermato a metà, mandamela 
 **A**: mihai@mihaimoraru.net
 **Oggetto**: Compito Marketing e contenuti · Corso Claude Code serale · Nome Cognome
 
-Puoi chiedere a Claude di prepararla: «prepara la mia email del compito con la Traccia del compito». Compila lui le parti che trova nei tuoi diari e nelle note; le altre le scrivi tu. La copi e la mandi tu dalla tua posta.
+Puoi chiedere a Claude di prepararla: «prepara la mia email del compito con la Traccia del compito». Compila lui le parti che trova nel registro dell'esercitazione e nei tuoi file; le altre le scrivi tu. Te la mostra in chat: la copi e la mandi tu dalla tua posta.
 
 Nell'email niente nomi di clienti o dati riservati: scrivi il ruolo («un cliente», «la socia»).
 

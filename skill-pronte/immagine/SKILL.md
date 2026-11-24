@@ -22,7 +22,7 @@ Controlla solo che la riga della chiave non sia vuota, **senza aprire il file n�
 - Mac: `grep -c '^[A-Z_]*API_KEY=.' ~/.config/immagini/.env`
 - Windows: `powershell -NoProfile -ExecutionPolicy Bypass -File .claude/skills/immagine/scripts/genera.ps1 -ControllaChiave` (funziona così com'è anche se lo strumento dei comandi è Bash)
 
-Questo controllo è l'unica eccezione alla regola di non leggere file fuori dal vault, e si fa **solo con questo comando**, che risponde con un numero: sul file della chiave non usare altri programmi o lettori (nemmeno quello di `porta-i-tuoi-file`, se ce l'hai), che lo mostrerebbero a schermo.
+Questo controllo è l'unica eccezione alla regola di non leggere file fuori dal vault, e si fa **solo con questo comando**, che risponde con un numero: sul file della chiave non usare altri programmi o lettori (nemmeno una skill che legge i file, come `porta-dentro-i-file`), che lo mostrerebbero a schermo.
 
 Se risponde `1` la chiave c'è. Se risponde `0` (o il file non esiste), leggi `PREPARA.md` (nella stessa cartella di questo file) e guida la persona, un passo alla volta. **La chiave non si legge, non si scrive e non si incolla mai in chat.**
 

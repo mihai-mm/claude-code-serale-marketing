@@ -34,7 +34,7 @@ Due motivi:
 La strada più semplice è chiedere a Claude di scaricarlo con il link del repo, come dice il README. Se Claude non ci riesce, fai così. Il link lo trovi nella chat della lezione e sulla board: scarica solo da quel link.
 
 1. **Scarica lo ZIP.** Dal repo premi il pulsante verde **Code** in alto a destra, poi **Download ZIP**. Il file finisce nei tuoi Download.
-2. **Aprilo.** Sul Mac fai doppio clic sul file ZIP: compare una cartella. Su Windows, tasto destro e **Estrai tutto**. Se Windows dà un errore durante l'estrazione, quasi sempre il nome è troppo lungo: rinomina lo ZIP in `M7.zip` e riprova.
+2. **Aprilo.** Sul Mac fai doppio clic sul file ZIP: compare una cartella. Su Windows, tasto destro e **Estrai tutto**. Se Windows dà un errore durante l'estrazione, quasi sempre il nome è troppo lungo: rinomina lo ZIP in `M8.zip` e riprova.
 3. **Spostala nel tuo vault.** Trascina la cartella scaricata dentro `0-Inbox/` del tuo vault: è il passo che permette a Claude di leggerla (vedi più sotto).
 
 Per **leggere** i documenti non devi installare niente: si aprono già formattati qui sul sito, basta cliccarci sopra.
@@ -49,4 +49,4 @@ Quindi, dopo aver scaricato e aperto lo ZIP:
 2. **Trascina la cartella scaricata dentro `0-Inbox`** del vault (sul Mac con il Finder, su Windows con Esplora file). Tutta la cartella, senza aprirla.
 3. Apri nell'app di Claude una conversazione nuova nella cartella del vault e scrivi: **«leggi ESERCITAZIONE del modulo 8 e guidami»**. Claude trova il file nella cartella che hai appena messo in `0-Inbox`, ti chiede cosa vuoi fare oggi e ti accompagna.
 
-La guida, le skill pronte e il cliente di esempio sono già dentro la cartella: non devi spostare altro.
+La guida, i revisori e l'esempio di Paola sono già dentro la cartella: non devi spostare altro.

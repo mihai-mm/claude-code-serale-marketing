@@ -36,7 +36,7 @@ Claude lavora solo dentro il tuo Secondo Cervello: una cartella lasciata nei Dow
   - *La tua dashboard*: il quarto passo. Una pagina sul tuo computer che risponde a una domanda che ti fai spesso (dove serve la tua attenzione, a che punto sono i progetti, i numeri del mese), scritta da Claude leggendo il tuo Secondo Cervello. Funziona anche se dentro c'è ancora poco.
 - **`Revisori/`**: `revisore-testi.md` («è scritto bene?») e `revisore-stile.md` («ha la voce giusta?»). Due agent pronti: la guida li copia nel tuo Secondo Cervello e restano lì per tutti i testi che verranno.
 - **`Esempio di Paola/`**: gli appunti della visita al Birrificio (la nota vocale e tre righe dal telefono), due testi veri del Birrificio per fare il suo stile e la foto della lattina di Codice Neve. Per chi vuole provare sul caso visto in aula invece che sul proprio.
-- **`Traccia del compito.md`**: il racconto da mandarmi per email a fine settimana.
+- **`Traccia del compito.md`**: il racconto da mandarmi per email entro mercoledì 2 dicembre alle 13:00.
 - **`skill-pronte/immagine/`** (facoltativo): uno strumento per le immagini, con la sua galleria. Serve una chiave tua, a pagamento: pochi centesimi a immagine. Per questo non è nel percorso in aula. Istruzioni in `skill-pronte/COME INSTALLARLE.md`.
 - **`Esempi/secondo-cervello.html`** (facoltativo): una pagina animata che spiega come lavorano i pezzi di un secondo cervello. Si apre con un doppio clic (serve la connessione a internet). La guida ti dà la frase per fartene fare una sul tuo lavoro.
 - **`Guida a GitHub.md`**: cos'è GitHub e come scarichi il materiale a mano.
